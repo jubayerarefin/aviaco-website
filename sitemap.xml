@@ -2408,10 +2408,6 @@
 <url> <loc>https://aviaco-gse.com/en/carttec-reunion-sport-s</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aviaco-gse.com/fr/carttec-reunion-sport-s</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aviaco-gse.com/es/carttec-reunion-sport-s</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://aviaco-gse.com/2020-03-20-sponsor-vv-assendelft</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://aviaco-gse.com/en/2020-03-20-sponsor-vv-assendelft</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://aviaco-gse.com/fr/2020-03-20-sponsor-vv-assendelft</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://aviaco-gse.com/es/2020-03-20-sponsor-vv-assendelft</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aviaco-gse.com/2020-02-23-sponsor-fokker-four</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aviaco-gse.com/en/2020-02-23-sponsor-fokker-four</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aviaco-gse.com/fr/2020-02-23-sponsor-fokker-four</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -2420,6 +2416,10 @@
 <url> <loc>https://aviaco-gse.com/en/2020-02-21-sponsor-racing-mechelen-u11</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aviaco-gse.com/fr/2020-02-21-sponsor-racing-mechelen-u11</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aviaco-gse.com/es/2020-02-21-sponsor-racing-mechelen-u11</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://aviaco-gse.com/2020-03-20-sponsor-vv-assendelft</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://aviaco-gse.com/en/2020-03-20-sponsor-vv-assendelft</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://aviaco-gse.com/fr/2020-03-20-sponsor-vv-assendelft</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://aviaco-gse.com/es/2020-03-20-sponsor-vv-assendelft</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aviaco-gse.com/index.php</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aviaco-gse.com/en/index.php</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aviaco-gse.com/fr/index.php</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
